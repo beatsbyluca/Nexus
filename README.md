@@ -41,7 +41,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/beatsbyluca/Nexus.git
+git clone https://github.com/beatsbyluca/Nexus
 cd Nexus
 
 # Install dependencies
