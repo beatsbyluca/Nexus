@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.3.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
@@ -17,7 +17,7 @@
 ## 📸 Preview
 
 ```
-                            _   __                    V1.3.2
+                            _   __                    V1.0.1
                            / | / /__  _  ____  _______
                           /  |/ / _ \| |/_/ / / / ___/
                          / /|  /  __/>  </ /_/ (__  ) 
@@ -183,7 +183,7 @@ This project is licensed under the MIT License.
 ## 👤 Credits
 
 **Developer:** [Beatsbyluca](https://github.com/beatsbyluca)  
-**Version:** 1.3.2
+**Version:** 1.0.1
 
 ---
 
